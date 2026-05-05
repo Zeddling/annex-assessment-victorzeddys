@@ -98,8 +98,6 @@ std::vector<Article> fetchArticles() {
     return articles;
 }
 
-//  Sort function
-
 /**
  * topArticles gets all articles from the API and returns the top n results.
  * 
